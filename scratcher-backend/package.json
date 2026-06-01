@@ -1,0 +1,6 @@
+{
+  "name": "scratcher-backend",
+  "version": "1.0.0",
+  "description": "Token validation backend for Crooked Christian scratcher",
+  "private": true
+}
